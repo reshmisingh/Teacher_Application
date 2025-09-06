@@ -1,5 +1,5 @@
 module.exports = {
-  HOST: "localhost",
+  HOST: "auth-db546.hstgr.io",
   USER: "u158165289_office",
   PASSWORD: "Aayush@9",
   DB: "u158165289_office",
